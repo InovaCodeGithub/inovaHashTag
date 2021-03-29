@@ -8,6 +8,6 @@ Pegue todas as informacoes e substitua de acordo com a nomenclatura no arquivo .
 
 CLIENTID="" para CLIENTID="qlJOg5FrVri8VD3K4AoKPA==" <= seu codigo sera outro, veja em seu arquivo auth_info
 
-Feito isso remova as linhas 8,18 e 19 de seu codigo e retire as barras das linhas 4 e 16
+Feito isso va para a pasta api/index.js e remova as linhas 8,18 e 19 de seu codigo e retire as barras das linhas 4 e 16
 
 Mude a conexao com o banco de acordo com o necessario.
